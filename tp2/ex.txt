@@ -1,0 +1,5 @@
+
+pere(X,Y). # x pere de y
+mere(X,Y). # x mere de y
+homme(X). # x est homme
+femme(X). # x est femme
